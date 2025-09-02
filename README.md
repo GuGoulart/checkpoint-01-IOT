@@ -52,5 +52,3 @@ Este repositório contém as soluções do **Checkpoint 01 – Data Science e Ma
 ##  Autor  
 - Nome: *Gustavo Goulart Bretas*
 - RMM: *555708*
-- RM: *[Seu RM Aqui]*  
-- Curso: Ciência de Dados / Big Data & Analytics  
