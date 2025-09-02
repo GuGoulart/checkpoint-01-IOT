@@ -1,0 +1,2 @@
+# checkpoint-01-IOT
+Checkpoint 01 - DISRUPTIVE ARCHITECTURES - IOT, IOB And GENERATIVE
